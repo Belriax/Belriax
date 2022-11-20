@@ -3,7 +3,7 @@
 A little about my persona: 😀
 
 - :dart: I am currently working at Creator Tecnologia e Desenvolvimento, a micro company created by me, focused on solutions in T.I, digital marketing and web development.
-- :mortar_board: Student systems analysis and development.
+- :mortar_board: Student of systems analysis and development.
 - :green_book: I'm also studying native Android development with react-native, web development with reactjs and Python with Pandas for data analysis.
 
 ## Tools and technologies
