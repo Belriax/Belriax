@@ -2,9 +2,9 @@
 
 A little about my persona: 😀
 
-- :dart: I am currently working at Creator Tecnologia e Desenvolvimento, a micro company created by me, focused on solutions in T.I, digital marketing and web development.
-- :mortar_board: Student of systems analysis and development.
-- :green_book: I'm also studying native Android development with react-native, web development with reactjs.
+- :dart:  I currently work at Creator Soluções e Tecnologia, a micro-company created by me, focused on IT solutions, management and security of corporate networks, development of websites, systems and mobile applications.
+- :mortar_board: Graduated in Systems Analysis and Development.
+- :green_book: I'm also studying Data Science.
 
 ## Tools and technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />&nbsp;&nbsp;&nbsp;
