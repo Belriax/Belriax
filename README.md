@@ -2,7 +2,7 @@
 
 A little about my persona: 😀
 
-- :dart:  I currently work at Creator Soluções e Tecnologia, a micro-company created by me, focused on IT solutions, management and security of corporate networks, development of websites, systems and mobile applications.
+- :dart:  I currently work at Creator Tecnology & Soluctions, a micro-company created by me, focused on IT solutions, management and security of corporate networks, development of websites, systems and mobile applications.
 - :mortar_board: Graduated in Systems Analysis and Development.
 - :green_book: I'm also studying Data Science.
 
